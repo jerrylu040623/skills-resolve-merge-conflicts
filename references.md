@@ -1,3 +1,4 @@
-# References
 
-* octocat 1 😈
+My references: John Doe, Jane Smith
+
+
